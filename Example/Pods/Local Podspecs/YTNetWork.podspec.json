@@ -1,0 +1,22 @@
+{
+  "name": "YTNetWork",
+  "version": "0.1.0",
+  "summary": "对于YTKNetWork的封装，只适用于自由项目不通用",
+  "description": "对于YTKNetWork的封装，只适用于自由项目不通用",
+  "homepage": "https://github.com/iwangyantao/YTNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iwangyantao": "iwangyantao@163.com"
+  },
+  "source": {
+    "git": "https://github.com/iwangyantao/YTNetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YTNetWork/Classes/**/*"
+}
