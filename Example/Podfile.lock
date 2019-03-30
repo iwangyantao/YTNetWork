@@ -1,0 +1,16 @@
+PODS:
+  - YTNetWork (0.1.0)
+
+DEPENDENCIES:
+  - YTNetWork (from `../`)
+
+EXTERNAL SOURCES:
+  YTNetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YTNetWork: 2eb1db61b066b52f577928f2b2a8bb5d2262ba44
+
+PODFILE CHECKSUM: 114a1d55f397d87a52767f6cc723173d5fccb535
+
+COCOAPODS: 1.6.1
